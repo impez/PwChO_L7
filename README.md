@@ -1,4 +1,4 @@
-## Michał Walczuk, PwChO - Lab7
+## Michał Walczuk, PwChO 
 
 Projekt składa się z trzech plików Dockerfile i jednego docker-compose.yml.
 Port używany w projekcie to 8090, ponieważ port 6666 jest portem
