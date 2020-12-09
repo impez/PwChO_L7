@@ -25,8 +25,7 @@ docker-compose build --no-cache
 docker-compose up
 ```
 
-Przed kolejnym uruchomieniem przydatnym będzie wyczyszczenie niepotrzebnych rzeczy.<br>
-Do tego celu można użyć:
+Następnie:
 
 ```
 docker-compose down --remove-orphans --volumes --rmi all
