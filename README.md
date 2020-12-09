@@ -1,8 +1,8 @@
 ## Michał Walczuk, PwChO - Lab7
 
-> Projekt składa się z trzech plików Dockerfile i jednego docker-compose.yml.
-> Port używany w projekcie to 8090, ponieważ port 6666 jest portem
-> zastrzeżonym przez system.
+Projekt składa się z trzech plików Dockerfile i jednego docker-compose.yml.
+Port używany w projekcie to 8090, ponieważ port 6666 jest portem
+zastrzeżonym przez system.
 
 Utworzony został osobny pool podłączony do portu 9009 dla aplikacji webowej. Kontekst strony jest umieszczony w katalogu /srv/strona. Aplikacja korzysta z aliasu dla kontenera z bazą danych.
 Kontener został podłączony do sieci backend.
